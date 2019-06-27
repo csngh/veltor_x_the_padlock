@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VeltorX</string>
+    <string-array name="admin_options">
+        <item>Setup WiFi Password</item>
+        <item>Fetch All Client Logs</item>
+        <item>Access Padlock</item>
+        <item>Share lock with Client</item>
+        <item>Update System Logs</item>
+    </string-array>
+
+    <string-array name="client_options">
+        <item>View WiFi Password</item>
+        <item>Access Padlock</item>
+        <item>Update System Logs</item>
+    </string-array>
+</resources>
