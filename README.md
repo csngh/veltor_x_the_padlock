@@ -1,2 +1,1 @@
-# veltor_x_the_padlock
-Android Application for Veltor The Padlock "India's First Smart PadLock"
+## Android Application for Veltor X The Padlock "India's First Smart PadLock"
